@@ -1,0 +1,3 @@
+This project focuses on the design and simulation of an RF frontend for a GPS receiver operating at the L2 band (1227.6 MHz). Following a typical superheterodyne architecture, the system includes key RF components such as a Band Pass Filter (BPF), Low Noise Amplifier (LNA), and Gilbert Cell Mixer. The design is optimized and evaluated based on critical RF parameters including Gain, P1dB, Noise Figure, IIP3, and impedance matching.
+
+The entire circuit is built and simulated using Cadence AWR Design Environment, enabling frequency-domain and system-level analysis. This project demonstrates practical RF design skills and analysis techniques commonly used in satellite communication receiver front-ends.
